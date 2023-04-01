@@ -7,7 +7,7 @@ RENCANA KONTEN IRAA
     ^ React
 - Struktur Data Dasar
 - PHP Frameworks
-   ^ Laravel
+  ^ Laravel
 - Interview
 - Vlog
 - Phyton
