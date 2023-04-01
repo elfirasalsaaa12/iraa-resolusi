@@ -3,10 +3,11 @@ RENCANA KONTEN IRAA
 - Javascript
   * ES6
   * Framework Javascript
-    ^ Angular
+    ^ vue
     ^ React
 - Struktur Data Dasar
 - PHP Frameworks
   ^ Laravel
 - Interview
 - Vlog
+- Phyton
