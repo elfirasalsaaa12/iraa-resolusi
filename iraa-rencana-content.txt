@@ -1,0 +1,6 @@
+RENCANA KONTEN IRAA
+
+- Javascript
+- PHP Frameworks
+- Interview
+- Vlog
